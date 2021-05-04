@@ -5,3 +5,5 @@ eSwapping is a trading bot for BSC. It has the ability to scan multiple pairs on
 
 ### Learn More:
 https://eswapping.io/
+### New repository:
+https://github.com/eSwapping/ESWAP-Limit-Order-Bot/releases
